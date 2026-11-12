@@ -7,6 +7,7 @@
 #include "value.h"
 #include "vm.h"
 
+//wee
 #define ALLOCATE_OBJ(type, objectType) \
     (type*)allocateObject(sizeof(type), objectType)
 
